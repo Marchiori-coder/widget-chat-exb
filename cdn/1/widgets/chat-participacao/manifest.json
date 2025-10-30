@@ -1,0 +1,23 @@
+{
+  "name": "chat-participacao",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "Seu Nome",
+  "description": "Chat IA para participação",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasUIConfig": true,
+    "supportInlineEditing": false
+  },
+  "translatedLocales": [
+    "pt-BR",
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 600
+  },
+  "dependency": "jimu-arcgis"
+}
